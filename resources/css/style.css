@@ -1,0 +1,8 @@
+@keyframes pulse-slow {
+  0%, 100% { box-shadow: 0 0 8px rgba(59, 130, 246, 0.6); }
+  50% { box-shadow: 0 0 16px rgba(59, 130, 246, 0.9); }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 2s infinite;
+}

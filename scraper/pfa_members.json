@@ -1,0 +1,416 @@
+[
+  {
+    "name": "PALPITATE COFFEE",
+    "price": "₱4,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_83ab8b2b531e4935b4b3de33fd77fd46~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_83ab8b2b531e4935b4b3de33fd77fd46~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/palpitate-coffee",
+    "CAPITAL INVESTMENT": "Php 1M-4M",
+    "FRANCHISE FEE": "Php 289,000 - 998,000"
+  },
+  {
+    "name": "GINATAANG BILO BILO AT MAIS",
+    "price": "₱300,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_ee934a07e12540a7a41e0475fcd55ad0~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_ee934a07e12540a7a41e0475fcd55ad0~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/ginataang-bilo-bilo-at-mais",
+    "CAPITAL INVESTMENT": "Php 300,000",
+    "FRANCHISE FEE": "Php 250,000"
+  },
+  {
+    "name": "MANGO ROYAL MILKSHAKE",
+    "price": "₱7,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_b72ec72e79324620ad989a91a2031f19~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_b72ec72e79324620ad989a91a2031f19~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/mango-royal-milkshake",
+    "CAPITAL INVESTMENT": "Php 700,000",
+    "FRANCHISE FEE": "Php 200,000"
+  },
+  {
+    "name": "BONCHON",
+    "price": "₱13,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_3110d253e449418f9dd71cb4516e9a65~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_3110d253e449418f9dd71cb4516e9a65~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/bonchon",
+    "COMPANY PROFILE": "BonChon offers a unique Korean Fried Chicken experience. BonChon uses a double-frying technique, ensuring the chicken is thoroughly deep-fried to achieve a crispy, golden skin. This technique is followed by a second fry that creates a crunchy texture, sealing in the flavors. BonChon's signature glazes are then delicately brushed onto the chicken, adding a distinctive and delicious touch to each piece.",
+    "CAPITAL INVESTMENT:": "Php 13M-15M",
+    "FRANCHISE FEE": "Php 1.5M"
+  },
+  {
+    "name": "ARCE DIARY",
+    "price": "₱0.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_84e63cc1abd34127a0882561e8eef330~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_84e63cc1abd34127a0882561e8eef330~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/arce-dairy"
+  },
+  {
+    "name": "ESPRESSOOH NAIL SPA CAFE",
+    "price": "₱1,400,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_7feb9b7ae5ea4f53a4a924731f4f6b6e~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_7feb9b7ae5ea4f53a4a924731f4f6b6e~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/espressooh-nail-spa-caf%C3%A9",
+    "CAPITAL INVESTMENT:": "Php 1.4M",
+    "FRANCHISE FEE:": "Php 450,000"
+  },
+  {
+    "name": "YOSHIMEATSU",
+    "price": "₱12,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_18b2938863e249d481a9476b4c2ad610~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_18b2938863e249d481a9476b4c2ad610~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/yoshimeatsu",
+    "CAPITAL INVESTMENT:": "Php 12M",
+    "FRANCHISE FEE:": "Php 1.5M-2.5M"
+  },
+  {
+    "name": "VILLATUNA",
+    "price": "₱6,500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_0257a392cd6846679445e50f38c9fd9d~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_0257a392cd6846679445e50f38c9fd9d~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/villatuna",
+    "CAPITAL INVESTMENT:": "Php 6.5M",
+    "FRANCHISE FEE:": "Php 1M"
+  },
+  {
+    "name": "TIKIM TAKAM",
+    "price": "₱1,500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_2ece66022ebb4f55bccc1fe076f4ffc3~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_2ece66022ebb4f55bccc1fe076f4ffc3~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/tikim-takam",
+    "CAPITAL INVESTMENT:": "Php 1.5M",
+    "FRANCHISE FEE:": "Php 349,000"
+  },
+  {
+    "name": "TAKE-O-COFFEE",
+    "price": "₱880,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_4dd8e4db5e814633b0e8fb1208ab277a~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_4dd8e4db5e814633b0e8fb1208ab277a~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/take-o-coffee",
+    "CAPITAL INVESTMENT:": "Php 880,000",
+    "FRANCHISE FEE:": "Php 150,000"
+  },
+  {
+    "name": "SIOMAI HOUSE",
+    "price": "₱3,500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_0f86831b10474ccf9956fe4d9542679e~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_0f86831b10474ccf9956fe4d9542679e~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/siomai-house",
+    "CAPITAL INVESTMENT:": "Php 350,000",
+    "FRANCHISE FEE:": "Php 50,000"
+  },
+  {
+    "name": "SHAWARMA KING",
+    "price": "₱500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_569f7d1f064b4c2eb325f9b37868a6a5~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_569f7d1f064b4c2eb325f9b37868a6a5~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/shawarma-king",
+    "CAPITAL INVESTMENT:": "Php 500,000",
+    "FRANCHISE FEE:": "Php 316,000"
+  },
+  {
+    "name": "SCORCHED SMOKEHOUSE",
+    "price": "₱3,500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_e8e6f41e1aee48fa97bf7285bd75226e~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_e8e6f41e1aee48fa97bf7285bd75226e~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/scorched-smokehouse",
+    "CAPITAL INVESTMENT:": "Php 3.5M",
+    "FRANCHISE FEE:": "Php 1.5M"
+  },
+  {
+    "name": "SAMGYUPSALAMAT",
+    "price": "₱14,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_64df8c439a9d4da8845375b7e69b2e2b~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_64df8c439a9d4da8845375b7e69b2e2b~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/samgyupsalamat",
+    "CAPITAL INVESTMENT:": "Php 12M-14M",
+    "FRANCHISE FEE:": "Php 1.5M"
+  },
+  {
+    "name": "R.LAPID'S PREMIUM CHICHARON",
+    "price": "₱1,450,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_4c83fec594cd4f29b2f459a5ba3fd9eb~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_4c83fec594cd4f29b2f459a5ba3fd9eb~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/r-lapid-s-premium-chicharon",
+    "CAPITAL INVESTMENT:": "Php 1,450,000",
+    "FRANCHISE FEE:": "Php 500,000"
+  },
+  {
+    "name": "PIZZADIDI",
+    "price": "₱18,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_20cbf0764c55471e9b3ba71e15865a1e~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_20cbf0764c55471e9b3ba71e15865a1e~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/pizzadidi",
+    "CAPITAL INVESTMENT:": "Php 18M",
+    "FRANCHISE FEE:": "Php 500,000"
+  },
+  {
+    "name": "PITAHOLIC SHAWARMA STATION",
+    "price": "₱585,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_35a1bf82dddd4f90a0de213bb4bb54d9~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_35a1bf82dddd4f90a0de213bb4bb54d9~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/pitaholic-shawarma-station",
+    "CAPITAL INVESTMENT:": "Php 585,000",
+    "FRANCHISE FEE:": "Php 180,000"
+  },
+  {
+    "name": "PEPPER LUNCH",
+    "price": "₱14,480,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_9e117ce676e047c2a3b612d3ae13a846~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_9e117ce676e047c2a3b612d3ae13a846~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/pepper-lunch",
+    "CAPITAL INVESTMENT:": "Php 14,480,000",
+    "FRANCHISE FEE:": "Php 2.5M"
+  },
+  {
+    "name": "PELAYO'S CRISPY PATA",
+    "price": "₱599,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_ab56d1995fc04154b41075dc52eb0c4f~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_ab56d1995fc04154b41075dc52eb0c4f~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/pelayo-s-crispy-pata",
+    "CAPITAL INVESTMENT": "Php 599,000",
+    "FRANCHISE FEE": "Php 200,000"
+  },
+  {
+    "name": "NICE CREAM",
+    "price": "₱495,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_38bc23374c6d4c58bd6fefda3feee0b5~mv2.jpg/v1/fill/w_176,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb83ef_38bc23374c6d4c58bd6fefda3feee0b5~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/nice-cream",
+    "CAPITAL INVESTMENT": "Php 495,000",
+    "FRANCHISE FEE": "Php 100,000"
+  },
+  {
+    "name": "MOMOYO",
+    "price": "₱3,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_fbfc8da7a8724a9f8f50e80513fd32c2~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_fbfc8da7a8724a9f8f50e80513fd32c2~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/momoyo",
+    "CAPITAL INVESTMENT": "Php 1.5-3M",
+    "FRANCHISE FEE": "Php 100,000"
+  },
+  {
+    "name": "MOM'S UBE & TRIPLE CHOCO CHAMPORADO",
+    "price": "₱550,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_dc5cced673d848be95700152254a48ab~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_dc5cced673d848be95700152254a48ab~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/mom-s-ube-triple-choco-champorado",
+    "CAPITAL INVESTMENT": "Php 550,000",
+    "FRANCHISE FEE": "Php 150,000"
+  },
+  {
+    "name": "LA SALSA FIL-MEX CANTINA",
+    "price": "₱8,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_abf0d799dcf048b897b27bc4d1c8ab53~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_abf0d799dcf048b897b27bc4d1c8ab53~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/la-salsa-fil-mex-cantina",
+    "COMPANY PROFILE": "Big Salsa Food Corporation, established in 2011 as Big Dawgs Bistro, has grown to four restaurants. After plans to franchise were delayed by the pandemic, the company adapted by introducing Filipino-Mexican fusion dishes. In 2021, they opened La' Salsa Fil-Mex, blending the bold flavors of both cuisines in a vibrant, inclusive dining experience for all.",
+    "CAPITAL INVESTMENT": "Php 1M-8M",
+    "FRANCHISE FEE": "Php 300,000-1M"
+  },
+  {
+    "name": "DIMSUM REPUBLIC",
+    "price": "₱100,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_0477f67e9f3d4972bf30d43c1564d6dd~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_0477f67e9f3d4972bf30d43c1564d6dd~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/dimsum-republic",
+    "CAPPITAL INVESTMENT:": "Php 100,000",
+    "FRANCHISE FEE:": "Php 58,888"
+  },
+  {
+    "name": "CHN Café",
+    "price": "₱1,300,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_b8c6d7deaa9a4b60828c61f093d11d39~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_b8c6d7deaa9a4b60828c61f093d11d39~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/chn-caf%C3%A9",
+    "COMPANY PROFILE": "CHN CAFÉ, established in 2021, is a franchising coffee shop business offering high-quality beverages and a cozy environment for students and professionals. With 15 branches, including locations in SM Malls, CHN CAFÉ is committed to creating spaces that inspire productivity and connections over a perfect cup of coffee.",
+    "CAPPITAL INVESTMENT:": "Php 1.3M",
+    "FRANCHISE FEE:": "Php 280,000"
+  },
+  {
+    "name": "CHING'S FRIED NOODLES",
+    "price": "₱500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_6e8abf49809848f487eda670ddee3f15~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_6e8abf49809848f487eda670ddee3f15~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/ching-s-fried-noodles",
+    "CAPPITAL INVESTMENT:": "Php 450,000-500,000",
+    "FRANCHISE FEE:": "Php 100,000"
+  },
+  {
+    "name": "CHONG’S CHICKEN INASAL",
+    "price": "₱3,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_bc49be6daa564f1586d8f82dd9e930ed~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_bc49be6daa564f1586d8f82dd9e930ed~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/chong-s-chicken-inasal",
+    "COMPANY PROFILE": "Chong’s Chicken Inasal began as a humble ambulant tent-style grilling Chicken Inasal venture in 2019 of November, serving savory Filipino favorites to every Kapampangan. With unwavering dedication of “Chong” and “Nico” to quality and customer satisfaction, the company grown into a popular and expanding food chain in Pampanga.",
+    "CAPPITAL INVESTMENT:": "Php 1M-3M",
+    "FRANCHISE FEE:": "Php 188,000"
+  },
+  {
+    "name": "CLT Cafe® | Caffe La Tea®",
+    "price": "₱4,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_f4fbe15448ae481c93c9d3c718a0e36d~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_f4fbe15448ae481c93c9d3c718a0e36d~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/clt-cafe-caffe-la-tea",
+    "COMPANY PROFILE": "CLT Cafe® fosters the Filipino tradition of gathering through good food, cozy dining ambiance, and genuinely hospitable service.",
+    "CAPPITAL INVESTMENT:": "Php 4M",
+    "FRANCHISE FEE:": "Php 650,000"
+  },
+  {
+    "name": "CAFE AMAZON",
+    "price": "₱5,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_84350da55e204c8d906da4c2304c37ec~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_84350da55e204c8d906da4c2304c37ec~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/caf%C3%A9-amazon",
+    "CAPPITAL INVESTMENT:": "Php 3M-5M",
+    "FRANCHISE FEE:": "Php 300,000"
+  },
+  {
+    "name": "CAPTAIN CALAMARES",
+    "price": "₱499,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_34c00972dd7547fba89dcd79c0d95a19~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_34c00972dd7547fba89dcd79c0d95a19~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/captain-calamares",
+    "COMPANY PROFILE": "Captain Calamares is a fast growing seafood food kiosk and culinary experience that has been delighting seafood enthusiasts and food lovers since its establishment in March 2023.",
+    "CAPPITAL INVESTMENT:": "Php 499,000",
+    "FRANCHISE FEE:": "Php 150,000"
+  },
+  {
+    "name": "BUT FIRST, COFFEE",
+    "price": "₱1,500,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_2ec7b34a7b56409a8dd76ceb6d59b378~mv2.jpg/v1/fill/w_65,h_43,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_2ec7b34a7b56409a8dd76ceb6d59b378~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/but-first-coffee",
+    "COMPANY PROFILE": "We support Filipino coffee farmers by using high quality local coffee beans and through our collective technical expertise, create a high quality product that can compete with the biggest names while remaining affordable so it can be enjoyed by every Filipino. With our best-tasting coffee, together with modern brand marketing, makes it accessible for anyone looking for a good cup of coffee, anytime, anywhere.",
+    "CAPPITAL INVESTMENT:": "Php 1.5M",
+    "FRANCHISE FEE:": "Php 150,000"
+  },
+  {
+    "name": "BUFFALO AVENUE",
+    "price": "₱1,750,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_0042a319955e4eeda7253fd7fc9bccaa~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_0042a319955e4eeda7253fd7fc9bccaa~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/buffalo-avenue",
+    "CAPPITAL INVESTMENT:": "Php 1,750,000",
+    "FRANCHISE FEE:": "Php 500,000"
+  },
+  {
+    "name": "BUKO JUAN",
+    "price": "₱375,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_53142ba8063645d184a65f58f2b5d6e5~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_53142ba8063645d184a65f58f2b5d6e5~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/buko-juan",
+    "COMPANY PROFILE": "Mang Juan Franchising Corporation is a full-service consultancy firm for franchise business nationwide. We develop and promote different food concepts with strong market impact for business venture. We intend to provide business opportunity for everyone and educate in the area of operating a successful enterprise.",
+    "CAPPITAL INVESTMENT:": "Php 375,000",
+    "FRANCHISE FEE": "Php 375,000"
+  },
+  {
+    "name": "BUNNY BANANA",
+    "price": "₱550,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_4288e7cbb84c4734af145846aee92b85~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_4288e7cbb84c4734af145846aee92b85~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/bunny-banana",
+    "CAPPITAL INVESTMENT:": "Php 550,000",
+    "FRANCHISE FEE:": "Php 200,000"
+  },
+  {
+    "name": "AVOCADORIA.PH",
+    "price": "₱1,650,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_ce4d67c43a6e44ef8497b0336974e528~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_ce4d67c43a6e44ef8497b0336974e528~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/avocadoria-ph",
+    "COMPANY PROFILE": "At Avocadoria, we offer unique Avocado treats, showcasing the versatility and irresistible flavor of this incredible fruit. From creamy ice creams and shakes to decadent tin can cakes, our treats are crafted to highlight avocados’ rich buttery flavor while providing a nutritious and satisfying indulgence. Discover the magic of avocado treats in the Philippines and let your taste buds embark on an exciting journey.",
+    "CAPITAL INVESTMENT": "Php 1.650M",
+    "FRANCHISE FEE": "Php 550,000"
+  },
+  {
+    "name": "7TWENTY7 AMERICAMN DINER",
+    "price": "₱11,600,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_b2fbccff45d143d381ca8dd128caf24e~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_b2fbccff45d143d381ca8dd128caf24e~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/7twenty7-american-diner",
+    "CAPITAL INVESTMENT": "Php 11.6M",
+    "FRANCHISE FEE": "Php 727,000"
+  },
+  {
+    "name": "1128 MILK TEA SHOP",
+    "price": "₱300,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_ef57d4c91ac64411bfe1b34b4b527896~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_ef57d4c91ac64411bfe1b34b4b527896~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/1128-milk-tea-shop",
+    "CAPPITAL INVESTMENT:": "Php 300,000",
+    "FRANCHISE FEE:": "Php 100, 000"
+  },
+  {
+    "name": "ATE RICA'S BACSILOG",
+    "price": "₱554,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_91b430763c8a4a89ad033716bf9c1be9~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_91b430763c8a4a89ad033716bf9c1be9~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/ate-rica-s-bacsilog",
+    "CAPITAL INVESTMENT": "Php 554,000",
+    "FRANCHISE FEE": "Php 450,000",
+    "TERM OF FRANCHISE AGREEMENT": "3 Years",
+    "RENEWAL": "Php 168,000"
+  },
+  {
+    "name": "BAKERS PH",
+    "price": "₱1,730,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_d44d2ca5fd4848be978c49e3ddf47649~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_d44d2ca5fd4848be978c49e3ddf47649~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/bakers-ph",
+    "CAPITAL INVESTMENT": "Php 1.730M",
+    "FRANCHISE FEE": "Php 230,000",
+    "TERM OF FRANCHISE AGREEMENT": "5 Years",
+    "RENEWAL": "5 Years"
+  },
+  {
+    "name": "BBQ BOB",
+    "price": "₱700,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_11ab846a0e11480aa44a4ea21b5c81fe~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_11ab846a0e11480aa44a4ea21b5c81fe~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/bbq-bob",
+    "COMPANY PROFILE": "With over 40 years in the food service industry and 20+ years of franchising expertise through its sister brand, Minute Burger, BBQ Bob has built a reputation for excellence. Since its founding in 2012, BBQ Bob has grown into a trusted brand with numerous successful locations, earning recognition as a go-to destination for convenient and delicious family meals.",
+    "CAPITAL INVESTMENT": "Php 700,000",
+    "FRANCHISE FEE": "Php 25,000",
+    "TERM OF FRANCHISE AGREEMENT": "4 Years",
+    "RENEWAL": "50% of PrevailingFranchise Fee"
+  },
+  {
+    "name": "BUKO TWIST",
+    "price": "₱700,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_0e06af9b23e44cebb2d8fd0f6ab1408c~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_0e06af9b23e44cebb2d8fd0f6ab1408c~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/buko-twist",
+    "CAPITAL INVESTMENT": "Php 600,000-700,000",
+    "FRANCHISE FEE": "Php 250,000",
+    "TERM OF FRANCHISE AGREEMENT": "3 years",
+    "RENEWAL": "Php 50,000"
+  },
+  {
+    "name": "EVERYTHING BUT CHEESE",
+    "price": "₱8,000,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_20dbc365bbb74797a7a1798e24591237~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_20dbc365bbb74797a7a1798e24591237~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/everything-but-cheese",
+    "COMPANY PROFILE": "The CHEESIEST place on earth! Cheese-concept restaurant that serves a variety of cheese.",
+    "CAPITAL INVESTMENT": "Php 8M",
+    "FRANCHISE FEE": "Php 5M-10M",
+    "TERM OF FRANCHISE AGREEMENT": "6 Years"
+  },
+  {
+    "name": "FERINO'S BIBINGKA",
+    "price": "₱450,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_68d139e07ab141dfb2a35d67a48b70d6~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_68d139e07ab141dfb2a35d67a48b70d6~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/ferino-s-bibingka",
+    "COMPANY PROFILE": "Ferino’s Bibingka started in October of 1938 at Juan Luna Street in Tondo, Manila. Husband and wife, Ceferino and Cristina Francisco started cooking bibingka with three clay stoves on a 1-meter bench and two small tables. Their bibingka became famous including other merienda items such as Menudo with Mini Pandesal, Ginatang Bilo-bilo with Inangit, Dinuguan-puto and Palabok (Pancit Luglog).",
+    "CAPITAL INVESTMENT": "Php 450,000",
+    "FRANCHISE FEE": "Php 200,000",
+    "TERM OF FRANCHISE AGREEMENT": "5 Years",
+    "RENEWAL": "5 Years"
+  },
+  {
+    "name": "LUKA'S BUTTER STEAKS",
+    "price": "₱149,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_92d3833e99c84724b52486c589086781~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_92d3833e99c84724b52486c589086781~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/luka-s-butter-steaks",
+    "CAPITAL INVESTMENT": "Php 149,000",
+    "FRANCHISE FEE": "Php 20,000",
+    "TERM OF FRANCHISE AGREEMENT": "3 Years",
+    "RENEWAL": "3 Years"
+  },
+  {
+    "name": "MACAO IMPERIAL TEA",
+    "price": "₱9,000,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_5726db454fff44c7b47e0382dd62a517~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_5726db454fff44c7b47e0382dd62a517~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/macao-imperial-tea",
+    "COMPANY PROFILE": "Although  known  globally  as  the  ‘Vegas  of  China’, Macau is more than just casinos. Macau is beautiful, vibrant, and alive, and this change in perspective is what  we  want  the  world  to  see.  As  one  of  the fastest-growing café chains that’s proudly born in Macau, Macao Imperial Tea takes a deeply-rooted approach that highlights a mix of the rich Macanese culture and a personalized experience.",
+    "CAPITAL INVESTMENT": "Php 5M-9M",
+    "FRANCHISE FEE": "Php 350,000-2M",
+    "TERM OF FRANCHISE AGREEMENT": "3 Years",
+    "RENEWAL": "TBD"
+  },
+  {
+    "name": "MANGO MAGIC",
+    "price": "₱330,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_463bfd03d0a8478bbe86c1446761b307~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_463bfd03d0a8478bbe86c1446761b307~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/mango-magic",
+    "CAPITAL INVESTMENT": "Php 330,000",
+    "FRANCHISE FEE": "Php 112,000",
+    "TERM OF FRANCHISE AGREEMENT": "3 Years",
+    "RENEWAL": "3 Years"
+  },
+  {
+    "name": "MI CAFÉ",
+    "price": "₱5,000,000.00",
+    "img": "https://static.wixstatic.com/media/fb83ef_71f2ac70853e4ec8b3a089f8e6df98c6~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb83ef_71f2ac70853e4ec8b3a089f8e6df98c6~mv2.jpg",
+    "link": "https://www.pfa.org.ph/product-page/mi-caf%C3%A9",
+    "CAPITAL INVESTMENT": "Php 5M",
+    "FRANCHISE FEE": "Php 988,888"
+  },
+  {
+    "name": "NEW YORK BUFFALO BRAD'S HOT WINGS",
+    "price": "₱9,000,000.00",
+    "img": "https://static.wixstatic.com/media/3efe35_1f9d765b27a347b89dd470c608a324d3~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3efe35_1f9d765b27a347b89dd470c608a324d3~mv2.png",
+    "link": "https://www.pfa.org.ph/product-page/new-york-buffalo-brad-s-hot-wings",
+    "CAPITAL INVESTMENT": "Php 9M",
+    "FRANCHISE FEE": "Php 1M",
+    "TERM OF FRANCHISE AGREEMENT": "5 Years",
+    "RENEWAL": "5 Years"
+  }
+]
